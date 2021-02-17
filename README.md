@@ -1,2 +1,2 @@
-# flappy-bird-game-cay-cu
+# flappy-bird
 Flappy Bird
